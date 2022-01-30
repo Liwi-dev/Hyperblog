@@ -1,6 +1,7 @@
-hola, mi nombre es piter mancilla, tengo 29 años, 
+hola, mi nombre es piter mancilla, tengo 29 años, naci en la ciudad de Valdivia, Chile.
+
 soy estudiante de platzi, me gusta jugar dead by daylight,
 shooters, ver series, peliculas de ciencia ficcion y terror.
-salir en bicicleta
+salir en bicicleta. 
 
-naci en la ciudad de Valdivia, Chile
+tambien estoy en la formacion de mi mejor version.
